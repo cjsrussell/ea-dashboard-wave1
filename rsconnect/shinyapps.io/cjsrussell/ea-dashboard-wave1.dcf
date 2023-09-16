@@ -1,0 +1,12 @@
+name: ea-dashboard-wave1
+title: ea-dashboard-wave1
+username: cjsrussell
+account: cjsrussell
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9885100
+bundleId: 7692317
+url: https://cjsrussell.shinyapps.io/ea-dashboard-wave1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
